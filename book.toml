@@ -1,0 +1,6 @@
+[book]
+authors = ["zuoshihua"]
+language = "en"
+multilingual = false
+src = "src"
+title = "mdBook GitHub Pages Starter"
