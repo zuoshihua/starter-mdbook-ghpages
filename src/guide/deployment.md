@@ -36,3 +36,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./book
 ```
+
+Open the repo settings, click "Pages".
+Set the "Source" to "Deploy from a branch".
+Select `gh-pages` as the branch and `/` as the folder.
